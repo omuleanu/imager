@@ -1,3 +1,5 @@
+download dll [here](https://imager.codeplex.com/downloads/get/1569524)
+
 add using:
 ``` ruby
 using Omu.Drawing;
