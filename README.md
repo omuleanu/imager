@@ -1,3 +1,5 @@
+get via nuget [Omu.Drawing2](https://www.nuget.org/packages/Omu.Drawing2)
+
 download dll [here](https://imager.codeplex.com/downloads/get/1569524)
 
 add using:
